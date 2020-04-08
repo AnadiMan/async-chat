@@ -1,0 +1,14 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[requires]
+python_version = "3.7"
+
+[dev-packages]
+
+[packages]
+asyncqt = "==0.8.0"
+"shiboken2" = "==5.14.1"
+"PySide2" = "==5.14.1"
